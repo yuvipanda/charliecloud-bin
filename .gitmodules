@@ -1,0 +1,3 @@
+[submodule "charliecloud"]
+	path = charliecloud
+	url = https://github.com/hpc/charliecloud.git
